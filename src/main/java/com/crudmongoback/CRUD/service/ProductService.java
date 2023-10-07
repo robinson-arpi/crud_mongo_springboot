@@ -1,8 +1,8 @@
-package com.tutorial.crudmongoback.CRUD.service;
+package com.crudmongoback.CRUD.service;
 
-import com.tutorial.crudmongoback.CRUD.dto.ProductDto;
-import com.tutorial.crudmongoback.CRUD.entity.Product;
-import com.tutorial.crudmongoback.CRUD.repository.ProductRepository;
+import com.crudmongoback.CRUD.repository.ProductRepository;
+import com.crudmongoback.CRUD.dto.ProductDto;
+import com.crudmongoback.CRUD.entity.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

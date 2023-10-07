@@ -1,4 +1,4 @@
-package com.tutorial.crudmongoback.CRUD.dto;
+package com.crudmongoback.CRUD.dto;
 
 public class ProductDto {
     private String name;

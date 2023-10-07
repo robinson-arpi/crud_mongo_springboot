@@ -1,4 +1,4 @@
-package com.tutorial.crudmongoback;
+package com.crudmongoback;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

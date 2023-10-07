@@ -1,6 +1,6 @@
-package com.tutorial.crudmongoback.CRUD.repository;
+package com.crudmongoback.CRUD.repository;
 
-import com.tutorial.crudmongoback.CRUD.entity.Product;
+import com.crudmongoback.CRUD.entity.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

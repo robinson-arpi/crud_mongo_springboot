@@ -1,8 +1,8 @@
-package com.tutorial.crudmongoback.CRUD.controller;
+package com.crudmongoback.CRUD.controller;
 
-import com.tutorial.crudmongoback.CRUD.dto.ProductDto;
-import com.tutorial.crudmongoback.CRUD.entity.Product;
-import com.tutorial.crudmongoback.CRUD.service.ProductService;
+import com.crudmongoback.CRUD.dto.ProductDto;
+import com.crudmongoback.CRUD.entity.Product;
+import com.crudmongoback.CRUD.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
