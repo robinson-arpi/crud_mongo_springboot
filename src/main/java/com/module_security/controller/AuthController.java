@@ -1,10 +1,10 @@
-package com.crudmongoback.security.controller;
+package com.module_security.controller;
 
+import com.module_security.entity.UserEntity;
+import com.module_security.service.UserEntityService;
 import com.crudmongoback.global.dto.MessageDto;
 import com.crudmongoback.global.exceptions.AttributeException;
-import com.crudmongoback.security.dto.CreateUserDto;
-import com.crudmongoback.security.entity.UserEntity;
-import com.crudmongoback.security.service.UserEntityService;
+import com.module_security.dto.CreateUserDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

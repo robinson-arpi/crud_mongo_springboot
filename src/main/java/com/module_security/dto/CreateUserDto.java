@@ -1,4 +1,4 @@
-package com.crudmongoback.security.dto;
+package com.module_security.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
